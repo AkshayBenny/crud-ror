@@ -1,16 +1,24 @@
-# quiz_app_flutter
+# README
 
-A new Flutter project.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-## Getting Started
+Things you may want to cover:
 
-This project is a starting point for a Flutter application.
+* Ruby version
 
-A few resources to get you started if this is your first Flutter project:
+* System dependencies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Configuration
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
